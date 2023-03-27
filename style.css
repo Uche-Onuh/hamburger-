@@ -22,6 +22,7 @@ button {
   background: transparent;
   border: 10px solid var(--button-color, black);
   border-radius: 1rem;
+  cursor: pointer;
 }
 /* button 1 */
 .button-one {
